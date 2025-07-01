@@ -1,0 +1,7 @@
+{
+    "death.attack.pain": "%1$s experienced karma",
+    "death.attack.bleed": "%1$s died of blood loss",
+    "death.attack.bleed.player": "%1$s bled out whilst fighting %2$s",
+    "death.attack.hook": "%1$s hooked up with their doom",
+    "death.attack.hook.player": "%1$s was stabbed by %2$s's fishing rod hook"
+}
